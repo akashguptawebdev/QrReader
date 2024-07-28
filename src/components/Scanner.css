@@ -1,0 +1,9 @@
+.ScannerContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.roof{
+    width: 500px;
+    height: 300px;
+}
